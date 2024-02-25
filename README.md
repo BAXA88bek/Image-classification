@@ -1,9 +1,7 @@
 # Image-classification
 This repository includes projects by using machine learning and deep learning frameworks related to image classification 
 # Data visualization of Brain Dataset
-
 ![brain_image_classification](https://github.com/BAXA88bek/Image-classification/assets/147753963/e4d608ee-b92b-46bd-8785-48b8df865382)
-
 #  Train and Validation Accuracy curves of Brain Dataset
 ![image](https://github.com/BAXA88bek/Image-classification/assets/147753963/7cb0df3a-1b40-407a-a995-aadd6254029b)
 # Loss curve of Brain Dataset
@@ -18,4 +16,12 @@ This repository includes projects by using machine learning and deep learning fr
 ![image](https://github.com/BAXA88bek/Image-classification/assets/147753963/3eb8972d-4646-474f-9395-6c45744bb524)
 # Inference result(prediction) of Rice Leaf Disease Dataset
 ![Screenshot 2024-02-25 215902](https://github.com/BAXA88bek/Image-classification/assets/147753963/286b0e54-2f89-4860-9d53-cd9316f3e03a)
+# Data visualization of Lentils Dataset
+![image](https://github.com/BAXA88bek/Image-classification/assets/147753963/2236c492-081e-40d9-a640-540c4ecfa409)
+#  Train and Validation Accuracy curves of Lentils Dataset
+![image](https://github.com/BAXA88bek/Image-classification/assets/147753963/a75322b8-3341-4476-b72f-7f1273c424f6)
+# Loss curve of Lentils Dataset
+![image](https://github.com/BAXA88bek/Image-classification/assets/147753963/7b184a77-2f50-4245-afbd-3dc75bfdcf8f)
+# Inference result(prediction) of Lentils Dataset
+![image](https://github.com/BAXA88bek/Image-classification/assets/147753963/aa59da5a-4fae-4623-9b1f-b78c3ab17d36)
 
