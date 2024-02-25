@@ -16,3 +16,6 @@ This repository includes projects by using machine learning and deep learning fr
 ![image](https://github.com/BAXA88bek/Image-classification/assets/147753963/98b52709-9dc7-4bb1-b726-60e191b16fd6)
 # Loss curve of Rice Leaf Disease Dataset
 ![image](https://github.com/BAXA88bek/Image-classification/assets/147753963/3eb8972d-4646-474f-9395-6c45744bb524)
+# Inference result(prediction) of Brain Dataset
+![Screenshot 2024-02-25 215902](https://github.com/BAXA88bek/Image-classification/assets/147753963/286b0e54-2f89-4860-9d53-cd9316f3e03a)
+
